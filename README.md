@@ -16,6 +16,7 @@ Estas son algunas de las tecnologías que domino o que estoy explorando:
 ### Frameworks y Herramientas
 * **Visual Studio Code**
 * **Dev-C++**
+* **Clion**
 
 ### Áreas de Interés
 * Inteligencia Artificial
