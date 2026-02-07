@@ -1,4 +1,4 @@
-# ¡Hola! Soy Alondra Muñoz Brione 👋
+# ¡Hola! Soy Alondra Muñoz Briones 👋
 
 Soy una estudiante apasionada por la programación, el diseño de redes y la inteligencia artificial. Me encanta aprender cosas nuevas, resolver problemas con lógica y conectar la teoría con la práctica. Siempre estoy en busca de nuevos retos que me permitan crecer como desarrolladora y como persona.
 
